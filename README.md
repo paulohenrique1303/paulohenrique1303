@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Paulo Henrique Leite</h1>
-<h3 align="center">Pretendo fazer um mundo melhor com machine learn!!</h3>
+<h3 align="center">Pretendo fazer um mundo melhor com Analise de dados e Machine Learn</h3>
 
-- 🌱 Atualmente estou estudando  **Data Science e Machine Learn.**
+- 🌱 Atualmente estou estudando  **Data Science e Machine Learning.**
 
 - 💬 Me pergunte sobre **Python, Numpy, Pandas, Matplotlib, Sklearn.**
 
