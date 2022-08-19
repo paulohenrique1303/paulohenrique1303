@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Paulo Henrique Leite</h1>
 <h3 align="center">Pretendo fazer um mundo melhor com machine learn!!</h3>
 
-- 🌱 Atualmente estou estudando **Machine Learn , classificação com Scitk-learn (Aprendizado supervisionado)**
+- 🌱 Atualmente estou estudando  **Data Science e Machine Learn.**
 
 - 💬 Me pergunte sobre **Python, Numpy, Pandas, Matplotlib, Sklearn.**
 
