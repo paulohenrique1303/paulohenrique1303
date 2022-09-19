@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou estudando  **Data Science e Machine Learning.**
 
-- 💬 Me pergunte sobre **Python, Numpy, Pandas, Matplotlib, Sklearn.**
+- 💬 Me pergunte sobre **Limpeza e tratamento de dados, Visualização e dashbords.**
 
 - Você me acha através do e-mail **ph766133@gmail.com**
 
