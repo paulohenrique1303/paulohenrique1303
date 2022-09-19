@@ -5,7 +5,7 @@
 
 - 💬 Me pergunte sobre **Limpeza e tratamento de dados, Visualização e dashbords.**
 
-- Você me acha através do e-mail **ph766133@gmail.com**
+- Você me acha através do contato **ph766133@gmail.com, (86) 98141-7834**
 
 Conecte-se comigo:</h3>
 <p align="left">
