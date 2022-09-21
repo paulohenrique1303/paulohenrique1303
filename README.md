@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Paulo Henrique Leite</h1>
 <h3 align="center">Faço das minhas análises um estudo detalhado de Produto, Preço, Praça e Promoção. </h3>
 
-- 🌱 Atualmente estou estudando  **Data Science e Machine Learning.**
+- 🌱 Atualmente estou estudando  **Data Science , Machine Learninge e Bussines Intelligence**
 
 - 💬 Me pergunte sobre **Limpeza e tratamento de dados, Visualização e dashbords.**
 
