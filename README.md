@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou estudando  **Data Science , Machine Learninge e Bussines Intelligence.**
 
-- 💬 Me pergunte sobre **Limpeza e tratamento de dados, Visualização e dashbords.**
+- 💬 Me pergunte sobre **Limpeza e tratamento de dados, Visualização, Dashbords, Modelos de Classificação e Regressão Linear.**
 
 - Você me acha através do contato **ph766133@gmail.com, (86) 98141-7834**
 
