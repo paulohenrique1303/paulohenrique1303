@@ -5,7 +5,7 @@
 
 - 💬 Me pergunte sobre **Limpeza e tratamento de dados, Visualização, Dashbords, Modelos de Classificação e Regressão Linear.**
 
-- Você me acha através do contato **ph766133@gmail.com, (86) 98141-7834**
+- Você me acha através do contato **paulo_henrique.leite@somosicev.com, (86) 98141-7834**
 
 Conecte-se comigo:</h3>
 <p align="left">
