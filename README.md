@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Paulo Henrique Leite</h1>
-<h3 align="center">Documentação do meu aprendizado nos portifólios </h3>
+<h3 align="center"> Machine Learning | Data Science | Bussines Intelligence </h3>
 
-- 🌱 Atualmente estou estudando  **Data Science , Machine Learninge e Bussines Intelligence.**
+- 🌱 Atualmente estou focando meu apreendizado em  **Modelos de Machine Learning**
 
 - 💬 Me pergunte sobre **Limpeza e tratamento de dados, Visualização, Dashbords, Modelos de Classificação e Regressão Linear.**
 
