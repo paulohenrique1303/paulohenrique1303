@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Paulo Henrique Leite</h1>
-<h3 align="center">Faço dos meus estudos em Python uma documentação do meu aprendizado através de portifólios. </h3>
+<h3 align="center">Documentação do meu aprendizado nos portifólios </h3>
 
 - 🌱 Atualmente estou estudando  **Data Science , Machine Learninge e Bussines Intelligence.**
 
