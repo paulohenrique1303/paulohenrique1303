@@ -1,29 +1,35 @@
-<h1 align="center">Olá, eu sou Paulo Henrique Leite</h1>
-<h3 align="center"> Machine Learning | Data Science | Bussines Intelligence </h3>
+# 👋 Olá, eu sou o Paulo Henrique!
 
-- 🌱 Atualmente estou focando meu apreendizado em  **Modelos de Machine Learning**
+🎯 Cientista de Dados apaixonado por transformar dados em soluções inteligentes.
 
-- 💬 Me pergunte sobre **Limpeza e tratamento de dados, Visualização, Dashbords, Modelos de Classificação e Regressão Linear.**
+Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos desenvolvidos ao longo da minha jornada em **Ciência de Dados**, com foco em:
 
-- Você me acha através do contato **paulo_henrique.leite@somosicev.com, (86) 98141-7834**
+- 📊 **Análise de Dados Exploratória (EDA)**  
+- 🐍 **Scripts Python para automações e análises**
+- 🤖 **Modelos de Machine Learning**
+- 🧠 **Projetos com Deep Learning**
+- 📈 **Dashboards e visualizações interativas (Power BI / Streamlit)**
+- ⚙️ **Pipelines de dados com ferramentas modernas (Airflow, Spark, Docker)**
 
-Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/paulo-henrique-425874234/" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com /in/paulo-henrique-425874234/" height="30" width="40" /></a>
-<a href=https://www.instagram.com/_paulo.he/</a>
-</p>
+---
 
-<h3 align="left">Ferramentas:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python. org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" largura ="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </ p>
+## 🔧 Tecnologias e Ferramentas
 
-<!---
-- 👋 Hi, I’m @paulohenrique1303
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- **Linguagens:** Python, SQL  
+- **Bibliotecas:** Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, TensorFlow, Keras, PyTorch  
+- **Ferramentas:** Power BI, Streamlit, Airflow, Spark, Docker, Git & GitHub  
+- **Bancos de Dados:** PostgreSQL, MySQL, SQLite  
+
+---
+
+## 📫 Contato
+
+- 📧 Email: ph766133@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/paulohenrique1303)  
+- 🌐 Portfólio: *[adicione aqui o link quando disponível]*
+
+---
+
+🧠 Estou sempre aprendendo, testando e aplicando novas tecnologias. Fique à vontade para explorar meus projetos ou entrar em contato!
 
 
-paulohenrique1303/paulohenrique1303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
