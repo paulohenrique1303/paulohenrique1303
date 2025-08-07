@@ -25,7 +25,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos desenvolvidos ao l
 ## 📫 Contato
 
 - 📧 Email: ph766133@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/paulohenrique1303)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/paulo-henrique-leite/)  
 - 🌐 Portfólio: 
 
 ---
