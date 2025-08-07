@@ -8,7 +8,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos desenvolvidos ao l
 - 🐍 **Scripts Python para automações e análises**
 - 🤖 **Modelos de Machine Learning**
 - 🧠 **Projetos com Deep Learning**
-- 📈 **Dashboards e visualizações interativas (Power BI / Streamlit)**
+- 📈 **Dashboards e visualizações interativas (Power BI)**
 - ⚙️ **Pipelines de dados com ferramentas modernas (Airflow, Spark, Docker)**
 
 ---
@@ -26,7 +26,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos desenvolvidos ao l
 
 - 📧 Email: ph766133@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/paulohenrique1303)  
-- 🌐 Portfólio: *[adicione aqui o link quando disponível]*
+- 🌐 Portfólio: 
 
 ---
 
